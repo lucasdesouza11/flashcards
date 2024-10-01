@@ -8,3 +8,7 @@ footer{
     bottom: 0;
     width: 100%;
 }
+:footer p{
+    text-align: cente;
+    font-size: 0.6rem;
+}
